@@ -101,7 +101,7 @@ const Footer = () => {
 
         <div className="footer__section">
           <h4 className="footer__title">立 即 取 得 我 的 簡 歷</h4>
-          <a href="/陳怡秀 履歷.pdf" download className="download-btn">
+          <a href="/cyh.pdf" download className="download-btn">
             Get Resume
           </a>
         </div>
