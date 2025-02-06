@@ -107,7 +107,11 @@ const Home = () => {
               ．技術適應力：自主學習基礎網站開發知識，具備快速學習與資訊整合能力。
             </h3>
           </div>
-          <a href="/cyh.pdf" download="陳怡秀 履歷.pdf" className="button">
+          <a
+            href="/cyh-portfolio.pdf"
+            download="陳怡秀 履歷.pdf"
+            className="button"
+          >
             Get Resume
           </a>
         </div>
